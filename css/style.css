@@ -1,0 +1,62 @@
+/* html tag element css is  here  */
+body{
+    background-color: #393E46;
+}
+
+h1{
+    font-size: 4rem;
+    color: #4FCBA2;
+    padding: 40px;
+}
+p{
+    color: #4FCBA2;
+}
+
+footer{
+    margin-top: 5%;
+}
+input{
+    display: block;
+    margin: 25px 0 0 88px;
+    padding: 6px;
+    width: 35%;
+    border-radius: 10px;
+    background-color: #50CAA1;
+    border: 0;
+}
+button{
+    padding: 6px;
+    width: 35%;
+    border-radius: 10px;
+    background-color: #50CAA1;
+    border: 0;
+}
+a{
+    text-decoration: none;
+    color: #EEEEEE;
+}
+img{
+    width: 70%;
+}
+.winner{
+    visibility: hidden;
+}
+
+
+
+/* class css is here  */
+/* hero section */
+.hero{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+
+/* pseudo class */
+.hero div{
+    text-align: center;
+    display: inline-block;
+    margin: 2rem;
+}
+
+
